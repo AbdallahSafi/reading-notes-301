@@ -11,6 +11,8 @@ Read Num | Read title | Read link
 01 |  SMACSS and Responsive Web Design | [Click here](https://abdallahsafi.github.io/reading-notes-301/class-01)
 02 |  jQuery, Events, and The DOM | [Click here](https://abdallahsafi.github.io/reading-notes-301/class-02)
 03 |  Flexbox and Templating | [Click here](https://abdallahsafi.github.io/reading-notes-301/class-03)
+04 |  Grid Layout | [Click here](https://abdallahsafi.github.io/reading-notes-301/class-04)
+
 
 
 
