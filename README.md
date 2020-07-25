@@ -13,6 +13,8 @@ Read Num | Read title | Read link
 03 |  Flexbox and Templating | [Click here](https://abdallahsafi.github.io/reading-notes-301/class-03)
 04 |  Grid Layout | [Click here](https://abdallahsafi.github.io/reading-notes-301/class-04)
 05 |  Heroku Deployment | [Click here](https://abdallahsafi.github.io/reading-notes-301/class-05)
+06 |  Node, Express, and APIs | [Click here](https://abdallahsafi.github.io/reading-notes-301/class-06)
+
 
 
 
