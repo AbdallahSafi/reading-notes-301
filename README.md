@@ -14,6 +14,8 @@ Read Num | Read title | Read link
 04 |  Grid Layout | [Click here](https://abdallahsafi.github.io/reading-notes-301/class-04)
 05 |  Heroku Deployment | [Click here](https://abdallahsafi.github.io/reading-notes-301/class-05)
 06 |  Node, Express, and APIs | [Click here](https://abdallahsafi.github.io/reading-notes-301/class-06)
+07 |  What is REST | [Click here](https://abdallahsafi.github.io/reading-notes-301/class-07)
+
 
 
 
