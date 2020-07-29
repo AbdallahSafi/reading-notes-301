@@ -16,7 +16,9 @@ Read Num | Read title | Read link
 06 |  Node, Express, and APIs | [Click here](https://abdallahsafi.github.io/reading-notes-301/class-06)
 07 |  What is REST | [Click here](https://abdallahsafi.github.io/reading-notes-301/class-07)
 08 |  SQL | [Click here](https://abdallahsafi.github.io/reading-notes-301/class-08)
-09 |  Refactoring | [Click here](https://abdallahsafi.github.io/reading-notes-301/class-09)
+09 |  Call Stack | [Click here](https://abdallahsafi.github.io/reading-notes-301/class-09)
+10 |  Refactoring | [Click here](https://abdallahsafi.github.io/reading-notes-301/class-10)
+
 
 
 
