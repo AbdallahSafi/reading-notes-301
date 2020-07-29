@@ -1,36 +1,25 @@
-## call stack :
-    A call stack is a mechanism for an interpreter to keep track of its place in a script that calls multiple function.
+### Call stack
+* mechanism for an interpreter to keep track of its place in a script that calls multiple functions
+  * script calls a function, the interpreter adds it to the call stack and then carrying out the function.
+  * function are added to the call stack further up, and run where their calls are reached.
+  * unction is finished, the interpreter takes it off the stack and resumes execution where it left off in the last code listing.
+#### Understanding the JavaScript call stack:
+* is a single-threaded interpreter comprising of a heap and a single call stack.
+* used for function invocation. Since the call stack is single
+* function execution,from top to bottom. It means the call stack is synchronous.
+* In Asynchronous JavaScript, we have a callback function, an event loop, and a task queue. 
+* a call stack is a data structure that uses the Last In, First Out (LIFO) principle to temporarily store and manage function 
+* It is single-threaded. Meaning it can only do one thing at a time
+* Code execution is synchronous.
+* A function invocation creates a stack frame that occupies a temporary memory.
+* It works as a LIFO — Last In, First Out data structure.
+#### JavaScript error messages && debugging
+* Types of error messages:
+  * Reference errors:This is also a common thing when using const and let, they are hoisted like var and function but there is a time between the hoisting and being declared.
+  * Syntax errors:when you have something that cannot be parsed in terms of syntax.
+  * Range errors:invalid length (negative length).
+* debugging
+  * console.log() the variables you want to check.
+  * using chrome developer tools.
 
-    * When a script calls a function, the interpreter adds it to the call stack and then starts carrying out the function.
-
-    * Any functions that are called by that function are added to the call stack further up, and run where their calls are reached.
-
-    * When the current function is finished, the interpreter takes it off the stack and resumes execution where it left off in the last code listing.
-
-    * If the stack takes up more space than it had assigned to it, it results in a "stack overflow" error.
-
-        - call stack is synchronous.
-        - data structure that uses the Last In, First Out (LIFO).
-
-
-## stack overflow:
-      A stack overflow occurs when there is a recursive function (a function that calls itself) without an exit point. The browser (hosting environment) has a maximum stack call that it can accomodate before throwing a stack error.
-
-
-## Types of error messages :
-     
-   1. Reference errors : Happend when you try to use a variable that is not yet declared.
-
-   2. Syntax errors : This occurs when you have something that cannot be parsed in terms of syntax.
-
-   3. Range errors : Try to manipulate an object with some kind of length and give it an invalid length and    this kind of errors will show up.
-
-   4. Type errors : this types of errors show up when the types (number, string and so on) you are trying to use or access are incompatible.
-
-
-## Debugging :
-     
-   - console.log()
-   - Ctrl+o : choose your file to debug, click the line you wanna debug and refresh your page again (F5)
-   
 
