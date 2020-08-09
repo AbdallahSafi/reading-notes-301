@@ -18,6 +18,8 @@ Read Num | Read title | Read link
 08 |  SQL | [Click here](https://abdallahsafi.github.io/reading-notes-301/class-08)
 09 |  Refactoring | [Click here](https://abdallahsafi.github.io/reading-notes-301/class-09)
 10 | Call Stack | [Click here](https://abdallahsafi.github.io/reading-notes-301/class-10)
+11 | EJS template | [Click here](https://abdallahsafi.github.io/reading-notes-301/class-11)
+
 
 
 
