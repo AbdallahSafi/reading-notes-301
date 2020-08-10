@@ -19,6 +19,8 @@ Read Num | Read title | Read link
 09 |  Refactoring | [Click here](https://abdallahsafi.github.io/reading-notes-301/class-09)
 10 | Call Stack | [Click here](https://abdallahsafi.github.io/reading-notes-301/class-10)
 11 | EJS template | [Click here](https://abdallahsafi.github.io/reading-notes-301/class-11)
+12 | EJS Partials | [Click here](https://abdallahsafi.github.io/reading-notes-301/class-12)
+
 
 
 
