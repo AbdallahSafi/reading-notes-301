@@ -20,7 +20,9 @@ Read Num | Read title | Read link
 10 | Call Stack | [Click here](https://abdallahsafi.github.io/reading-notes-301/class-10)
 11 | EJS template | [Click here](https://abdallahsafi.github.io/reading-notes-301/class-11)
 12 | EJS Partials | [Click here](https://abdallahsafi.github.io/reading-notes-301/class-12)
-13 |SENDING FORM DATA | [Click here](https://abdallahsafi.github.io/reading-notes-301/class-13)
+13 | SENDING FORM DATA | [Click here](https://abdallahsafi.github.io/reading-notes-301/class-13)
+14 | DATABASE NORMALIZATION | [Click here](https://abdallahsafi.github.io/reading-notes-301/class-14)
+
 
 
 
