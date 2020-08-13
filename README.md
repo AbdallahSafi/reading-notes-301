@@ -22,6 +22,8 @@ Read Num | Read title | Read link
 12 | EJS Partials | [Click here](https://abdallahsafi.github.io/reading-notes-301/class-12)
 13 | SENDING FORM DATA | [Click here](https://abdallahsafi.github.io/reading-notes-301/class-13)
 14 | DATABASE NORMALIZATION | [Click here](https://abdallahsafi.github.io/reading-notes-301/class-14)
+15 | DIVERSITY AND INCLUSION | [Click here](https://abdallahsafi.github.io/reading-notes-301/class-15)
+
 
 
 
